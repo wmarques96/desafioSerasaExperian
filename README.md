@@ -5,7 +5,8 @@ url base: localhost:8080/clientes
 
 Base de Dados: H2 
 
-scripts de create: schema.sql
+script de create: schema.sql
+
 script de insert: data.sql
 
 Foi utilizado o Postman para testar a API.
